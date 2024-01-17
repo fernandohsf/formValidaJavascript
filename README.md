@@ -13,3 +13,7 @@ Se estiver com informações ficará com a borda verde
 As validações são individuais podendo ter 1 ou mais campos vazios
 ![image](https://github.com/fernandohsf/formValidaJavascript/assets/17659168/f4e99060-e92f-4653-b533-f5410875f2a4)
 
+## Técnologias utilizadas
+  - HTML
+  - CSS
+  - Javascript
